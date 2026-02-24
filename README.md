@@ -13,7 +13,7 @@ Given 79 features describing residential homes in Ames, Iowa, the goal is to pre
 ## 📂 Repository Structure
 
 ```
-├── 21_Days_B6_D3.ipynb   # Main notebook with full pipeline
+├── house_price_sales_prediction.ipynb   # Main notebook with full pipeline
 ├── submission.csv         # Final predictions for Kaggle leaderboard
 └── README.md
 ```
